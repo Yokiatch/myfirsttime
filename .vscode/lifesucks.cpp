@@ -21,7 +21,7 @@ int main(){
                     break;}
                }
          }
-         cout<<count<<endl;
+         cout<<count<<" "<<endl;
      }
      
      return 0;
